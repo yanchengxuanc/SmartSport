@@ -52,6 +52,7 @@
 ![输入图片说明](demo/%E5%B8%B8%E8%AF%86.png)
 
 ![输入图片说明](demo/%E5%8A%A8%E6%80%81.png)
+ ![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E7%A0%81.png)
 
 
 ## 后台管理系统截图
@@ -62,3 +63,6 @@
 ![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E5%AF%BC%E5%87%BA.png) 
 ![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E5%90%8D%E5%8D%95.png)
 ![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E8%87%AA%E5%8A%A9%E7%AD%BE%E5%88%B0.png) 
+
+![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%97%B6%E9%97%B4%E8%AE%BE%E7%BD%AE.png)
+![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%B4%BB%E5%8A%A8%E6%B7%BB%E5%8A%A0.png)
